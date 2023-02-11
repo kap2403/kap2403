@@ -1,9 +1,11 @@
-- 👋 Hi, I’m karthik 
-- 👀 I’m interested in Active safety in 🚘 
-- 🌱 I’m currently learning Artificial Intelligence and Driving Assistance Systems Functions.
-- 💞️ I’m looking to collaborate on doing projects related to ADAS functions and Artificial Intelligence for Autonomous vehicles 
-- 📫 you can reach me through email 
-📧 pasupuletikarthiksai@gmail.com
+Passionate about using cutting-edge technology to make the roads safer.
+
+As a masters student in the field of vehicle safety, I am eager to apply my knowledge to improve vehicle safety through the use of deep learning. I have a strong foundation in machine learning and computer vision, and I am confident in my ability to develop innovative solutions for the automotive industry.
+
+During my time in academia, I had the opportunity to work on a project focused on detecting road hazards in real-time using deep learning techniques. This experience sparked my interest in the intersection of AI and vehicle safety, and I am now seeking opportunities to further my skills in this area.
+
+I am always looking for new challenges and opportunities to grow, and I believe that working on real-world problems in the field of vehicle safety and deep learning will provide me with the experience I need to succeed. If you are looking for a motivated individual to join your team, I would love to hear from you!"
+
 
 
 
