@@ -1,4 +1,5 @@
-![image](https://github.com/user-attachments/assets/b4f95512-3a0b-4ce3-ae11-33025ff229de)
+![1_GtokYjvfEOOnTGH6PYnO-Q](https://github.com/user-attachments/assets/ec1611c7-3eb4-4d2b-a4cb-bee814fcd4af)
+
 
 ---
 
@@ -10,7 +11,12 @@ Welcome to my GitHub! I'm a master's student specializing in **vehicle safety** 
 As a dedicated researcher in the field of vehicle safety, I am driven by the goal of making transportation safer through innovative solutions. My technical foundation includes strong skills in **machine learning** and **computer vision**, which I aim to apply to real-world applications in the automotive industry.
 
 ### 💡 Experience & Projects
-In my academic journey, I've worked on various projects, including a notable project involving **real-time road hazard detection** using deep learning models. This project has cemented my interest in the **intersection of AI and vehicle safety**, where I envision developing systems that can proactively enhance driver and passenger safety.
+
+In my academic journey, I've worked on various projects, including:
+
+Object Detection and Traffic Scenario Clustering
+Camera to Bird’s Eye View Transformations: Applying perspective transformation techniques to enhance spatial understanding for autonomous driving applications.
+These experiences have deepened my interest in the intersection of AI and vehicle safety.
 
 ### 🎯 Goals
 - Apply deep learning techniques to tackle complex challenges in vehicle safety
@@ -20,6 +26,3 @@ In my academic journey, I've worked on various projects, including a notable pro
 ## 🚀 Let's Connect!
 I'm always excited to take on new challenges and connect with like-minded professionals. If you're working in the fields of **vehicle safety**, **deep learning**, or **automotive innovation**, feel free to reach out!
 
----
-
-Feel free to adjust as needed, and good luck with your projects!
